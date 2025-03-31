@@ -16,36 +16,37 @@ Here are some ideas to get you started:
 
 # 💫 About Me
 
-🚀 I'm a passionate **developer & tech innovator**, co-founder of **QuiverTech**, and a creator of **innovative platforms** solving real-world problems.<br>  
-🎯 My work spans **AI, NLP, image processing, full-stack development, and product building**.<br>  
-📫 Reach me at [info@yourdomain.com](mailto:info@yourdomain.com)<br><br>
+🚀 I'm a passionate **sofware engineer & tech innovator**, <!-- co-founder of **QuiverTech**-->, and a creator of **innovative platforms** solving real-world problems.<br>  
+🎯 My interest spans **AI, image processing, full-stack development, and product building**.<br>  
+📫 Reach me via [mail](mailto:danieltesla746@gmail.com)<br><br>
 
 ![](https://komarev.com/ghpvc/?username=saintdannyyy&color=blue)
 <br><br>
 
 # 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yourhandle)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourhandle)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/invite/yourchannel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saintdannyyy)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saintdannyyy)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saintdannyyy)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://bit.ly/techsavvyyyy-whatsapp)
 
 <br><br>
 
-# 🔥 My Projects
+<!-- # 🔥 My Projects -->
 
-### **🚀 QuiverTech** (Co-founder)
+<!-- ### **🚀 QuiverTech** (Co-founder)
 
-Helping interns and tech enthusiasts grow in:  
-✅ **Software Engineering** 🚀  
-✅ **Social Media Management** 📢  
+Helping interns and tech enthusiasts grow in:
+✅ **Software Engineering** 🚀
+✅ **Social Media Management** 📢
 ✅ **AI Study Bots for Learning** 🤖
 
 ### **📸 Heyrazzi**
 
-A freelancer marketplace for **photographers**, built with:  
-🛠️ **Vite + React 18 + TailwindCSS + ShadCN**  
+A freelancer marketplace for **photographers**, built with:
+🛠️ **Vite + React 18 + TailwindCSS + ShadCN**
 🔥 **Firebase backend**
+-->
 
 ### **🖼️ PicMorph**
 
@@ -53,6 +54,7 @@ An **image conversion tool** for fast format changes.
 
 - **Backend:** Sharp (Node.js)
 - **Frontend:** Sleek, professional UI with **Next.js**
+<!--
 
 ### **🛍️ Zest (POS System)**
 
@@ -65,7 +67,7 @@ An **AI assistive speech platform** designed to help the **Ghanaian community**,
 ### **🐔 Ashford Enterprise System**
 
 Developing a **custom business system** for a company in **veterinary drugs, poultry feed, and day-old chicks**.
-
+-->
 <br><br>
 
 # 💻 Tech Stack
@@ -80,18 +82,17 @@ Developing a **custom business system** for a company in **veterinary drugs, pou
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 
 ### **Databases & Backend**
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)  
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 ### **DevOps & Infrastructure**
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
-[![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org)  
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 ### **Development Tools**
@@ -102,8 +103,9 @@ Developing a **custom business system** for a company in **veterinary drugs, pou
 
 ### **Cloud & Hosting**
 
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)  
-[![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com)  
+<!-- [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com)   -->
+
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
 <br><br>
