@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **saintdannyyy/saintdannyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,47 +12,110 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
-## Hi there 👋
+# 💫 About Me
 
-# Hi there, I'm Daniel! 👋
+🚀 I'm a passionate **sofware engineer & tech innovator**, <!-- co-founder of **QuiverTech**-->, and a creator of **innovative platforms** solving real-world problems.<br>  
+🎯 My interest spans **AI, image processing, full-stack development, and product building**.<br>  
+📫 Reach me via [mail](mailto:danieltesla746@gmail.com)<br><br>
 
-## About Me
+![](https://komarev.com/ghpvc/?username=saintdannyyy&color=blue)
+<br><br>
 
-I'm a passionate developer with a keen interest in web development and data science. I love working on exciting projects and learning new technologies.
+# 🌐 Socials
 
-## Technologies I Work With
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saintdannyyy)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saintdannyyy)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saintdannyyy)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://bit.ly/techsavvyyyy-whatsapp)
 
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Angular, Django
-- **Tools:** Git, Docker, VSCode
+<br><br>
 
-## My Projects
+<!-- # 🔥 My Projects -->
 
-Here are a few of my notable projects:
+<!-- ### **🚀 QuiverTech** (Co-founder)
 
-### [Project Name](link-to-project)
+Helping interns and tech enthusiasts grow in:
+✅ **Software Engineering** 🚀
+✅ **Social Media Management** 📢
+✅ **AI Study Bots for Learning** 🤖
 
-- **Description:** Brief description of what the project does.
-- **Technologies:** React, Node.js
+### **📸 Heyrazzi**
 
-### [Another Project Name](link-to-project)
+A freelancer marketplace for **photographers**, built with:
+🛠️ **Vite + React 18 + TailwindCSS + ShadCN**
+🔥 **Firebase backend**
+-->
 
-- **Description:** Brief description of what the project does.
-- **Technologies:** Python, Flask
+### **🖼️ PicMorph**
 
-## Get in Touch
+An **image conversion tool** for fast format changes.
 
-- **Email:** [Your email]
-- **LinkedIn:** [Your LinkedIn profile link]
-- **Twitter:** [Your Twitter handle]
+- **Backend:** Sharp (Node.js)
+- **Frontend:** Sleek, professional UI with **Next.js**
+<!--
 
-## GitHub Stats
+### **🛍️ Zest (POS System)**
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=saintdannyyy&show_icons=true&theme=radical)
+A modern **point-of-sale system** built with **Next.js**.
 
-## Fun Fact
+### **🗣️ KasaYie**
 
-I once built a robot that can solve a Rubik's cube!
+An **AI assistive speech platform** designed to help the **Ghanaian community**, starting with **Twi (Akan)**.
 
-Thanks for visiting my profile!
+### **🐔 Ashford Enterprise System**
+
+Developing a **custom business system** for a company in **veterinary drugs, poultry feed, and day-old chicks**.
+-->
+<br><br>
+
+# 💻 Tech Stack
+
+### **Web Technologies**
+
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)  
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)  
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+
+### **Programming Languages**
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+
+### **Databases & Backend**
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+
+### **DevOps & Infrastructure**
+
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+
+### **Development Tools**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)  
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)  
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+
+### **Cloud & Hosting**
+
+<!-- [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com)
+[![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com)   -->
+
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+
+<br><br>
+
+# 📊 Stats
+
+[![](https://github-profile-trophy.vercel.app/?username=saintdannyyy&theme=onedark)](https://github.com/saintdannyyy/github-profile-trophy&hide_border=true&count_private=true)  
+![](https://github-contributor-stats.vercel.app/api?username=saintdannyyy&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=saintdannyyy&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=saintdannyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saintdannyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
