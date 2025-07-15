@@ -44,11 +44,11 @@ I'm passionate about building innovative platforms that solve real-world problem
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats -->
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saintdannyyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true)   -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintdannyyy&layout=compact&theme=dark&include_all_commits=true&count_private=true)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintdannyyy&layout=compact&theme=dark&include_all_commits=true&count_private=true) -->
 
 ---
 
