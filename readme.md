@@ -13,10 +13,10 @@ I'm passionate about building innovative platforms that solve real-world problem
 
 - 🚀 Passionate **software engineer & tech innovator** creating impactful solutions
 - 🎯 Expertise in **AI, image processing, full-stack development, and product building**
-<!-- - 🌟 Co-founder of **QuiverTech** - empowering the next generation of tech talent -->
 - 🔍 Currently building **KasaYie** – an AI assistive speech platform for the Akan speakers with speech impairment
 - 🏥 Developing **OTConekt** – a comprehensive platform connecting occupational therapists with clients
 - 💡 Advocate for making technology accessible in local languages and underserved communities
+<!-- - 🌟 Co-founder of **QuiverTech** - empowering the next generation of tech talent -->
 
 ---
 
