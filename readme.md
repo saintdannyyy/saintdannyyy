@@ -52,11 +52,11 @@ I'm passionate about building innovative platforms that solve real-world problem
 
 ---
 
-## 🏆 Trophies
+<!-- ## 🏆 Trophies -->
 
 <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=saintdannyyy&theme=onedark&column=6&margin-h=8&margin-w=8) -->
 
----
+<!-- --- -->
 
 ## 📫 Connect With Me
 
@@ -77,11 +77,11 @@ I'm passionate about building innovative platforms that solve real-world problem
 
 ---
 
-## ⚡ Fun Fact
+<!-- ## ⚡ Fun Fact
 
 I believe I can do allthings with code. Currently working on making AI accessible to Ghanaian communities through local language processing! 🇬🇭
 
----
+--- -->
 
 ## 💼 Open For
 
