@@ -44,11 +44,11 @@ I'm passionate about building innovative platforms that solve real-world problem
 - 🖼️ [**PicMorph**](https://github.com/saintdannyyy/picmorph)  
   _Powerful image conversion tool for lightning-fast format changes using Sharp and Next.js_
 
-- 📸 [**Heyrazzi**](https://github.com/saintdannyyy/heyrazzi)  
-  _Modern freelancer marketplace for photographers built with Vite, React 18, TailwindCSS, and Firebase_
+<!-- - 📸 [**Heyrazzi**](https://github.com/saintdannyyy/heyrazzi)
+  _Modern freelancer marketplace for photographers built with Vite, React 18, TailwindCSS, and Firebase_ -->
 
-- 🛍️ [**Zest POS System**](https://github.com/saintdannyyy/zest)  
-  _Sleek point-of-sale system built with Next.js for modern businesses_
+<!-- - 🛍️ [**Zest POS System**](https://github.com/saintdannyyy/zest)
+  _Sleek point-of-sale system built with Next.js for modern businesses_ -->
 
 - 🐔 [**Ashford Enterprise System**](https://github.com/saintdannyyy/ashford)  
   _Custom business management system for veterinary drugs, poultry feed, and day-old chicks_
