@@ -71,7 +71,7 @@ I'm passionate about building innovative platforms that solve real-world problem
 ## 📫 Connect With Me
 
 - 📧 Email: [danieltesla746@gmail.com](mailto:danieltesla746@gmail.com)
--     Porfolio: [saintdannyyy.vercel.app](https://saintdannyyy.vercel.app)
+- 🌐 [Portfolio: Saintdanny Portfolio](https://saintdannyyy.vercel.app)
 - 🔗 [LinkedIn](https://linkedin.com/in/saintdannyyy)
 - 🐦 [X (Twitter)](https://x.com/saintdannyyy)
 - 📷 [Instagram](https://instagram.com/saintdannyyy)
