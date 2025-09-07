@@ -13,9 +13,11 @@ I'm passionate about building innovative platforms that solve real-world problem
 
 - 🚀 Passionate **software engineer & tech innovator** creating impactful solutions
 - 🎯 Expertise in **AI, image processing, full-stack development, and product building**
-- 🔍 Currently building **KasaYie** – an AI assistive speech platform for the Akan speakers with speech impairment
+- 🔍 Currently building **KasaYie** – an AI assistive speech platform for Akan speakers with speech impairment
 - 🏥 Developing **OTConekt** – a comprehensive platform connecting occupational therapists with clients
-- 💡 Advocate for making technology accessible in local languages and underserved communities
+- 💡 Advocate for making technology accessible in local languages and underserved communities.
+- � Focused on empowering Ghanaian and African communities through innovative tech solutions
+
 <!-- - 🌟 Co-founder of **QuiverTech** - empowering the next generation of tech talent -->
 
 ---
@@ -23,44 +25,53 @@ I'm passionate about building innovative platforms that solve real-world problem
 ## 🔧 Tech Stack
 
 **Languages**: JavaScript, TypeScript, Python, PHP  
-**Frontend**: Next.js, React, TailwindCSS, Vite  
-**Backend**: Node.js, Sharp (Image Processing), PHP  
-**Databases**: MySQL, MongoDB, Supabase  
+**Frontend**: Next.js, React, TailwindCSS, Vite, ShadCN  
+**Backend**: Node.js, Sharp (Image Processing), FastAPI  
+**Databases**: MySQL, MongoDB, Supabase, Firebase  
 **Tools**: Git, VS Code, Postman, Apache  
-**Platforms**: Vercel, Supabase, GitHub
+**Platforms**: Vercel, Supabase, Firebase, GitHub
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🖼️ [**PicMorph**](https://github.com/saintdannyyy/picmorph)  
-  _Powerful image conversion tool for lightning-fast format changes using Sharp and Next.js_
+- 🏥 [**OTConekt**](https://github.com/saintdannyyy/otconekt)  
+  _Comprehensive platform connecting occupational therapists with clients for better healthcare accessibility_
 
 - 🗣️ [**KasaYie**](https://github.com/saintdannyyy/kasayie)  
   _AI assistive speech platform for the Ghanaian community, starting with Twi (Akan)_
 
-- 🏥 [**OTConekt**](https://github.com/saintdannyyy/otconekt)  
-  _Comprehensive platform connecting occupational therapists with clients for better healthcare accessibility_
+- 🖼️ [**PicMorph**](https://github.com/saintdannyyy/picmorph)  
+  _Powerful image conversion tool for lightning-fast format changes using Sharp and Next.js_
+
+- 📸 [**Heyrazzi**](https://github.com/saintdannyyy/heyrazzi)  
+  _Modern freelancer marketplace for photographers built with Vite, React 18, TailwindCSS, and Firebase_
+
+- 🛍️ [**Zest POS System**](https://github.com/saintdannyyy/zest)  
+  _Sleek point-of-sale system built with Next.js for modern businesses_
+
+- 🐔 [**Ashford Enterprise System**](https://github.com/saintdannyyy/ashford)  
+  _Custom business management system for veterinary drugs, poultry feed, and day-old chicks_
 
 ---
 
-<!-- ## 📈 GitHub Stats -->
+## 📈 GitHub Stats
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saintdannyyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true)   -->
-
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintdannyyy&layout=compact&theme=dark&include_all_commits=true&count_private=true) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saintdannyyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintdannyyy&layout=compact&theme=dark&include_all_commits=true&count_private=true)
 
 ---
 
-<!-- ## 🏆 Trophies -->
+## 🏆 Trophies
 
-<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=saintdannyyy&theme=onedark&column=6&margin-h=8&margin-w=8) -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=saintdannyyy&theme=onedark&column=6&margin-h=8&margin-w=8)
 
-<!-- --- -->
+---
 
 ## 📫 Connect With Me
 
 - 📧 Email: [danieltesla746@gmail.com](mailto:danieltesla746@gmail.com)
+-     Porfolio: [saintdannyyy.vercel.app](https://saintdannyyy.vercel.app)
 - 🔗 [LinkedIn](https://linkedin.com/in/saintdannyyy)
 - 🐦 [X (Twitter)](https://x.com/saintdannyyy)
 - 📷 [Instagram](https://instagram.com/saintdannyyy)
@@ -70,18 +81,19 @@ I'm passionate about building innovative platforms that solve real-world problem
 
 ## 🏆 What I'm Working On
 
-- 🔭 **Current Focus:** Building scalable web applications with Next.js and AI integration
-- 🌱 **Learning:** Advanced AI/ML techniques, cloud architecture, and mobile development
-- 👯 **Open to:** Collaborating on innovative projects that make a real impact
-- 💡 **Interested in:** AI applications, image processing, full-stack solutions
+- 🔭 **Current Focus:** Building AI-powered systems and various software solutions
+- 🌱 **Learning:** Advanced AI/ML techniques, cloud architecture
+- 👯 **Open to:** Collaborating on innovative projects that create social impact in Africa
+- 💡 **Interested in:** AI applications, healthcare tech, full-stack solutions and community empowerment
+- 🎯 **Mission:** Making technology accessible to underserved communities
 
 ---
 
-<!-- ## ⚡ Fun Fact
+## ⚡ Fun Fact
 
-I believe I can do allthings with code. Currently working on making AI accessible to Ghanaian communities through local language processing! 🇬🇭
+I believe the best code is not just functional, but elegant and maintainable. Currently working on making AI accessible to Ghanaian communities through local language processing! 🇬🇭
 
---- -->
+---
 
 ## 💼 Open For
 
